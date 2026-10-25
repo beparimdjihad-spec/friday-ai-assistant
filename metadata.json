@@ -1,0 +1,6 @@
+{
+  "name": "FRIDAY",
+  "description": "Bilingual AI Assistant for life & religious guidance, smart home control, mobile automation, and social media scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
